@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Nowadays I'm looking for a Software Developer Internship, to work in my tech area currently.
+💡 &nbsp; Working as a Full Stack Software Developer.
 
 🎓 &nbsp; I'm getting my Bachelor's degree in Information Systems. I'll have finished at the end of 2022.
 
