@@ -5,7 +5,7 @@
 
 💡 &nbsp; Working as a Full Stack Software Developer.
 
-🎓 &nbsp; I'm getting my Bachelor's degree in Information Systems. I'll have finished at the end of 2022.
+🎓 &nbsp; Bachelor's degree in Information Systems. Finished at Dec/2022.
 
 🌱&nbsp; Following me here, you'll be able to see my improvement in software developer. I've been studying a lot to be better everyday, and you can see it in my repositories.
 
